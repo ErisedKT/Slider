@@ -4,7 +4,7 @@
 }
 
 #slider {
-	width: 634px;
+	width: 700px;
 	height: 939px;
 	overflow: hidden;
 	margin: 30px auto;
@@ -23,12 +23,18 @@ a {
 	padding: 5px 10px;
 	margin-top: 30px;
 	color: #666;
+	margin-bottom: 20px;
+	font-size: 22px;
 }
 
 a.left {
 	float: left;
+	margin-left: -158px;
+	margin-top: -430px;
 }
 
 a.right {
 	float: right;
+	margin-right: -135px;
+	margin-top: -430px;
 }
